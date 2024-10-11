@@ -9,7 +9,7 @@
     "papertrail",
     "rediscloud:30",
     "heroku-postgresql:essential-0",
-    "plan": "heroku-redis:mini"
+    "heroku-redis:mini"
   ],
   "env": {
     "DJANGO_SECRET_KEY": {
